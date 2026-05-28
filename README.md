@@ -1,4 +1,7 @@
 <h1 align="center">OLÁ, SEJA BEM-VINDO(A) AO MEU GITHUB!!</h1>
+<img align="right" height="200" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHlvYjM3Y25wNTJlZ3k4dHFuZXR3eHRkdnY5a2FudDBzd3VpZmxteCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/FXynzLoP14IHsnfGmO/giphy.gif"  />
+
+###
 <br>
 
 <h2 align="left">SOBRE MIM!</h2>
