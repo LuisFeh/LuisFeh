@@ -23,7 +23,7 @@
  
  
 </div>
-
+<img src="https://raw.githubusercontent.com/LuisFeh/LuisFeh/snake-output/snake.svg" alt="Snake animation" />
 ###
 
 <h3 align="left">MEUS STATS :</h3>
@@ -37,4 +37,4 @@
 ###
 
 
-<img src="https://raw.githubusercontent.com/LuisFeh/LuisFeh/snake-output/snake.svg" alt="Snake animation" />
+
