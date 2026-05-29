@@ -1,5 +1,5 @@
 <h1 align="center">OLÁ, SEJA BEM-VINDO(A) AO MEU GITHUB!!</h1>
-<img align="right" height="116" alig src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmJ2a3N1YWVobGVxendvbGNleWp4MzUyaHIybzE4bzBvMGxuMmJhZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/GkLnexguD7I4KkpZE8/giphy.gif"  />
+<img align="right" height="120" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbGM3anpoc3hhbWt4cW45bW1hbHFtdDh3djE1eTNjNzcwa280YWMybSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/g08w977k6vsVRRC2OQ/giphy.gif"  />
 <h3>Sou Desenvolvedor Jr</h3>
 <p>Estou me formando em Ciências da Computação, tendo a meta de migrar para área da tecnologia, como desnevolvedor. </p>
 
