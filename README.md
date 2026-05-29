@@ -25,8 +25,15 @@
  
  
  
+</div >
+<div align="center">
+<img src="https://raw.githubusercontent.com/LuisFeh/LuisFeh/snake-output/snake.svg" alt="Snake animation"/>
+  </div>
+<div align="center">
+  <img src="https://raw.githubusercontent.com/LuisFeh/LuisFeh/trophy-output/trophy.svg" height="150" alt="trophy graph"  />
 </div>
-<img src="https://raw.githubusercontent.com/LuisFeh/LuisFeh/snake-output/snake.svg" alt="Snake animation" />
+
+<br>
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="20" alt="linkedin logo"  />
