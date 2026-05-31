@@ -27,8 +27,8 @@
  
 </div >
 <div align="center">
-<img src="https://raw.githubusercontent.com/LuisFeh/LuisFeh/snake-output/snake.svg" alt="Snake animation"/>
-  </div>
+<img src="https://raw.githubusercontent.com/LuisFeh/LuisFeh/snake-output/snake.svg" alt="Snake animation" />
+</div>
 <div align="center">
   <img src="https://raw.githubusercontent.com/LuisFeh/LuisFeh/trophy-output/trophy.svg" height="150" alt="trophy graph"  />
 </div>
